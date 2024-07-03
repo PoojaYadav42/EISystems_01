@@ -5,5 +5,8 @@ About the Project
 
 On opening the index.html , you’ll reach the homepage for the website. There, you’ll see a navigation bar on bottom which links to all other pages, a user icon , a wishlist icon and a cart icon. Moving down, you’ll see some special deals, a brief about us, our gallery etc. 
 
+https://github.com/PoojaYadav42/EISystems_01/assets/174592010/a104dab3-0805-4140-ab06-d5c5f3a03b86
+
+
 https://github.com/PoojaYadav42/EISystems_01/assets/174592010/5cc1e60c-f587-4d10-b1e9-500a5fa0dd63
 
